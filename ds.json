@@ -1,17 +1,15 @@
-[
-  {
-    "id": 1,
-    "title": "Morning workout",
-    "completed": true
-  },
-  {
-    "id": 2,
-    "title": "Breakfast",
-    "completed": false
-  },
-  {
-    "id": 3,
-    "title": "Rendering project 1",
-    "completed": true
-  }
-]
+{
+  "id": 1,
+  "title": "Morning workout",
+  "completed": true
+},
+{
+  "id": 2,
+  "title": "Breakfast",
+  "completed": false
+},
+{
+  "id": 3,
+  "title": "Rendering project 1",
+  "completed": true
+}
